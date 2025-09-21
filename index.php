@@ -220,8 +220,43 @@
                     <div class="card-header">Rossy Escobar</div>
                     <div class="card-body">
                         <p><span class="keyword">Como</span> Estudiante,</p>
-                        <p><span class="keyword">Quiero</span> Revisar los pagos que he realizado en la plataforma,</p>
-                        <p><span class="keyword">Para</span> Revisar los pagos que he realizado .</p>
+                        <p><span class="keyword">Quiero</span>Revisar los pagos que he realizado ,</p>
+                        <p><span class="keyword">Para</span> Tener control de mis gastos y comprobantes.</p>
+                    </div>
+             <div class="card card-user-story">
+                    <div class="card-header">Richar Acosta </div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> Comprador,</p>
+                        <p><span class="keyword">Quiero</span> Realizar el pago en línea de forma segura,</p>
+                        <p><span class="keyword">Para</span> completar mi compra sin problemas.</p>
+                    </div>
+             <div class="card card-user-story">
+                    <div class="card-header">Richar Acosta </div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> Administrador,</p>
+                        <p><span class="keyword">Quiero</span> Gestionar usuarios,productos y transacciones,</p>
+                        <p><span class="keyword">Para</span> Mantener el orden y buen funcionamiento del programa.</p>
+                    </div>
+             <div class="card card-user-story">
+                    <div class="card-header">Richar Acosta </div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span>  Estudiante Nuevo,</p>
+                        <p><span class="keyword">Quiero</span> : Tutorial introductorio sobre cómo usar la plataforma,</p>
+                        <p><span class="keyword">Para</span> Aprender rápidamente sus funciones.</p>
+                    </div>
+             <div class="card card-user-story">
+                    <div class="card-header">Richar Acosta </div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span>  Estudiante de ultimo semestre,</p>
+                        <p><span class="keyword">Quiero</span> Donar materiales a estudiantes de nuevo ingreso,</p>
+                        <p><span class="keyword">Para</span> para facilitar la comunidad y reutilización.</p>
+                    </div>
+             <div class="card card-user-story">
+                    <div class="card-header">Richar Acosta </div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span>Vendedor,</p>
+                        <p><span class="keyword">Quiero</span> Publicar productos de comida o papelería con descripción,precio y cantidad disponible,</p>
+                        <p><span class="keyword">Para</span>Ofrecerlos a los demás estudiantes.</p>
                     </div>
             </div>
         `;
