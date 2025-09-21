@@ -293,6 +293,20 @@
                         <p><span class="keyword">Quiero</span>realizar el pago de mi pedido de forma rápida y segura,</p>
                         <p><span class="keyword">Completar mi compra con confianza y sin complicaciones. </p>
                     </div>
+                <div class="card card-user-story">
+                    <div class="card-header">Pierina Ventes </div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span>Estudiante ,</p>
+                        <p><span class="keyword">Quiero</span>reservar aulas de estudio y espacios en la biblioteca a través de una aplicación ,</p>
+                        <p><span class="keyword">garantizar un lugar donde trabajar en grupo sin contratiempos.</p>
+                    </div>
+                <div class="card card-user-story">
+                    <div class="card-header">Pierina Ventes </div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span>Estudiante ,</p>
+                        <p><span class="keyword">Quiero</span>recibir notificaciones en mi celular sobre cambios de horario, recordatorios de exámenes y eventos ,</p>
+                        <p><span class="keyword">estar siempre informado y evitar perder actividades importantes.</p>
+                    </div>
             </div>
         `;
 
