@@ -144,7 +144,7 @@
             <h2>Historias de usuario</h2>
             <div class="cards-grid">
                 <div class="card card-user-story" style="background-color: lightblue;">
-                    <div class="card-header">Alex Franco</div>
+                    <div class="card-header">Stefany Mera</div>
                     <div class="card-body">
                         <p><span class="keyword">Como</span> estudiante,</p>
                         <p><span class="keyword">Quiero</span> poder ver mi historial de compras,</p>
@@ -153,7 +153,7 @@
                 </div>
 
                 <div class="card card-user-story">
-                    <div class="card-header">María García</div>
+                    <div class="card-header">Stefany Mera</div>
                     <div class="card-body">
                         <p><span class="keyword">Como</span> usuario registrado,</p>
                         <p><span class="keyword">Quiero</span> restablecer mi contraseña,</p>
