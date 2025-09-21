@@ -200,7 +200,7 @@
                     <div class="card-header">Rossy Escobar</div>
                     <div class="card-body">
                         <p><span class="keyword">Como</span> Usuario,</p>
-                        <p><span class="keyword">Quiero</span> poner una reseña a los articulos que compro,</p>
+                        <p><span class="keyword">Quiero</span> poner una calificacion o reseña a los articulos que compro,</p>
                         <p><span class="keyword">Para</span> Ayudar a otros usuarios a tomar mejores decisiones.</p>
                     </div>
                <div class="card-header">Rossy Escobar</div>
