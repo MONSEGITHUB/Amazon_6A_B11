@@ -258,6 +258,41 @@
                         <p><span class="keyword">Quiero</span> Publicar productos de comida o papelería con descripción,precio y cantidad disponible,</p>
                         <p><span class="keyword">Para</span>Ofrecerlos a los demás estudiantes.</p>
                     </div>
+               <div class="card card-user-story">
+                    <div class="card-header">Ruben Arroyo </div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> Comprador online ,</p>
+                        <p><span class="keyword">Quiero</span> poder buscar productos por nombre, categoría y palabras clave,</p>
+                        <p><span class="keyword">Para</span> encontrar rápidamente lo que estoy buscando o descubrir nuevos artículos que me interesen. </p>
+                    </div>
+                <div class="card card-user-story">
+                    <div class="card-header">Ruben Arroyo </div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> Cliente registrado,</p>
+                        <p><span class="keyword">Quiero</span> agregar, eliminar y modificar la cantidad de productos en mi carrito de compras ,</p>
+                        <p><span class="keyword">Para</span> asegurarme de que la lista de mis compras sea precisa antes de proceder al pago.  </p>
+                    </div>
+                <div class="card card-user-story">
+                    <div class="card-header">Ruben Arroyo </div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> Usuario recurrente ,</p>
+                        <p><span class="keyword">Quiero</span>tener una cuenta donde pueda ver mi historial de pedidos, guardar mis direcciones y gestionar mis preferencias,</p>
+                        <p><span class="keyword">Para</span> agilizar mis futuras compras y tener un registro de mis transacciones.</p>
+                    </div>
+                 <div class="card card-user-story">
+                    <div class="card-header">Ruben Arroyo </div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> Comprador potencial,</p>
+                        <p><span class="keyword">Quiero</span>ver las reseñas y calificaciones de otros clientes,</p>
+                        <p><span class="keyword">Para</span>tomar una decisión informada sobre si el producto es de buena calidad y si vale la pena comprarlo.</p>
+                    </div>
+                <div class="card card-user-story">
+                    <div class="card-header">Ruben Arroyo </div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> Comprador,</p>
+                        <p><span class="keyword">Quiero</span>realizar el pago de mi pedido de forma rápida y segura,</p>
+                        <p><span class="keyword">Completar mi compra con confianza y sin complicaciones. </p>
+                    </div>
             </div>
         `;
 
