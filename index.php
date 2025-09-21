@@ -162,7 +162,7 @@
                 </div>
 
                 <div class="card card-user-story">
-                    <div class="card-header">Carlos López</div>
+                    <div class="card-header">Stefany Mera </div>
                     <div class="card-body">
                         <p><span class="keyword">Como</span> administrador,</p>
                         <p><span class="keyword">Quiero</span> agregar nuevos productos al inventario,</p>
@@ -171,7 +171,7 @@
                 </div>
                 
                 <div class="card card-user-story">
-                    <div class="card-header">Ana Torres</div>
+                    <div class="card-header">Stefany Mera </div>
                     <div class="card-body">
                         <p><span class="keyword">Como</span> visitante del sitio,</p>
                         <p><span class="keyword">Quiero</span> buscar productos por categoría,</p>
@@ -180,7 +180,7 @@
                 </div>
 
                 <div class="card card-user-story">
-                    <div class="card-header">Pedro Gómez</div>
+                    <div class="card-header">Stefany Mera</div>
                     <div class="card-body">
                         <p><span class="keyword">Como</span> cliente,</p>
                         <p><span class="keyword">Quiero</span> dejar una reseña en un producto,</p>
@@ -189,13 +189,40 @@
                 </div>
                 
                 <div class="card card-user-story">
-                    <div class="card-header">Laura Díaz</div>
+                    <div class="card-header">Rossy Escobar</div>
                     <div class="card-body">
                         <p><span class="keyword">Como</span> desarrollador,</p>
                         <p><span class="keyword">Quiero</span> una API de pagos segura,</p>
                         <p><span class="keyword">Para</span> procesar transacciones de manera confiable.</p>
                     </div>
                 </div>
+                <div class="card card-user-story">
+                    <div class="card-header">Rossy Escobar</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> Usuario,</p>
+                        <p><span class="keyword">Quiero</span> poner una reseña a los articulos que compro,</p>
+                        <p><span class="keyword">Para</span> Ayudar a otros usuarios a tomar mejores decisiones.</p>
+                    </div>
+               <div class="card-header">Rossy Escobar</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> Estudiante,</p>
+                        <p><span class="keyword">Quiero</span>Recibir notificaciones cuando haya nuevas publicaciones de interés.,</p>
+                        <p><span class="keyword">Para</span> Mantenerme informado sin necesidad de estar revisando siempreprocesar transacciones de manera confiable.</p>
+                    </div>
+                <div class="card card-user-story">
+                    <div class="card-header">Rossy Escobar</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> Usuario,</p>
+                        <p><span class="keyword">Quiero</span> Enviar y recibir mensajes privados con otros usuarios,</p>
+                        <p><span class="keyword">Para</span> Acordar detalles antes de realizar una compra o intercambio.</p>
+                    </div>
+            <div class="card card-user-story">
+                    <div class="card-header">Rossy Escobar</div>
+                    <div class="card-body">
+                        <p><span class="keyword">Como</span> Estudiante,</p>
+                        <p><span class="keyword">Quiero</span> Revisar los pagos que he realizado dentro de la plataforma,</p>
+                        <p><span class="keyword">Para</span> Revisar los pagos que he realizado dentro de la plataforma.</p>
+                    </div>
             </div>
         `;
 
