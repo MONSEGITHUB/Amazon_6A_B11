@@ -207,21 +207,21 @@
                     <div class="card-body">
                         <p><span class="keyword">Como</span> Estudiante,</p>
                         <p><span class="keyword">Quiero</span>Recibir notificaciones cuando haya nuevas publicaciones de interés.,</p>
-                        <p><span class="keyword">Para</span> Mantenerme informado sin necesidad de estar revisando siempreprocesar transacciones de manera confiable.</p>
+                        <p><span class="keyword">Para</span> Mantenerme informado sin necesidad de estar revisando siempre procesar transacciones de manera confiable.</p>
                     </div>
                 <div class="card card-user-story">
                     <div class="card-header">Rossy Escobar</div>
                     <div class="card-body">
                         <p><span class="keyword">Como</span> Usuario,</p>
                         <p><span class="keyword">Quiero</span> Enviar y recibir mensajes privados con otros usuarios,</p>
-                        <p><span class="keyword">Para</span> Acordar detalles antes de realizar una compra o intercambio.</p>
+                        <p><span class="keyword">Para</span> Acordar detalles antes de realizar una compra .</p>
                     </div>
             <div class="card card-user-story">
                     <div class="card-header">Rossy Escobar</div>
                     <div class="card-body">
                         <p><span class="keyword">Como</span> Estudiante,</p>
-                        <p><span class="keyword">Quiero</span> Revisar los pagos que he realizado dentro de la plataforma,</p>
-                        <p><span class="keyword">Para</span> Revisar los pagos que he realizado dentro de la plataforma.</p>
+                        <p><span class="keyword">Quiero</span> Revisar los pagos que he realizado en la plataforma,</p>
+                        <p><span class="keyword">Para</span> Revisar los pagos que he realizado .</p>
                     </div>
             </div>
         `;
